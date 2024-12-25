@@ -2,6 +2,7 @@
 
 Данный репозиторий предназначен для разбора задач представленных на сайте [Leetcode](https://leetcode.com/problemset/)
 
+
 # Структура основных алгоритмов
 
 ## 1. Two pointers
@@ -141,17 +142,3 @@
 :no_entry:[1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/?envType=problem-list-v2&envId=string&difficulty=MEDIUM)
 
 :no_entry:[1946. Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/description/?envType=problem-list-v2&envId=string&difficulty=MEDIUM)
-
-
-
-# Task Progress
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100%; background-color: #f3f3f3; border: 1px solid #ccc; border-radius: 5px; height: 20px; margin-right: 10px;">
-    <div style="width: 62%; height: 100%; background-color: #4caf50;"></div>
-  </div>
-  <span>62.5%</span>
-</div>
-
-*python
-2//2
