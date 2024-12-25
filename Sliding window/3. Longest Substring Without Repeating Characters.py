@@ -12,7 +12,6 @@ class Solution:
                 while char in substr and s[start] in substr:
                     substr.remove(s[start])
                     start += 1
-                
                 substr.add(char)
             ans = max(ans, len(substr))
                 

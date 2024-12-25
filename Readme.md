@@ -6,6 +6,8 @@
 # Структура основных алгоритмов
 
 ## 1. Two pointers
+<details>
+<summary> 21 Problems </summary>
 
 :no_entry: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
@@ -39,7 +41,6 @@
 
 :no_entry: [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
-
 :no_entry: [524. Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
 
 :no_entry: [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
@@ -49,11 +50,13 @@
 :no_entry: [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 :no_entry: [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
-
+</details>
 
 
 
 ## 2. Sliding window
+<details>
+<summary> 12 Problems </summary>
 
 :white_check_mark: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
@@ -81,7 +84,12 @@
 
 :no_entry: [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 
+</details>
+
 ## 3. Substring
+
+<details>
+<summary> 30 Problems </summary>
 
 :no_entry: [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/?envType=problem-list-v2&envId=string&difficulty=MEDIUM)
 
@@ -142,3 +150,5 @@
 :no_entry: [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/?envType=problem-list-v2&envId=string&difficulty=MEDIUM)
 
 :no_entry: [1946. Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/description/?envType=problem-list-v2&envId=string&difficulty=MEDIUM)
+
+</details>
