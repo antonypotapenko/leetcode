@@ -154,6 +154,135 @@
 </details>
 
 
+#
+
+# Задачи к интервью ![0%](https://progress-bar.xyz/0)
+
+<details>
+<summary> 0/60 Problems  </summary>
+
+:no_entry: [1. Two Sum](https://leetcode.com/problems/two-sum/)
+
+:no_entry: [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+:no_entry: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+:no_entry: [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+:no_entry: [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+
+:no_entry: [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+:no_entry: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+:no_entry: [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+:no_entry: [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+:no_entry: [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
+:no_entry: [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+:no_entry: [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+:no_entry: [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+:no_entry: [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
+:no_entry: [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
+:no_entry: [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+  
+:no_entry: [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+
+:no_entry: [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+
+:no_entry: [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+
+:no_entry: [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+
+:no_entry: [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+:no_entry: [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+
+:no_entry: [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
+
+:no_entry: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+
+:no_entry: [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+:no_entry: [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)  
+:no_entry: [167. Two Sum II – Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
+:no_entry: [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
+:no_entry: [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+:no_entry: [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+
+:no_entry: [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+
+:no_entry: [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+
+:no_entry: [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+:no_entry: [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+
+:no_entry: [268. Missing Number](https://leetcode.com/problems/missing-number/)
+
+:no_entry: [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
+:no_entry: [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+
+:no_entry: [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+
+:no_entry: [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+
+:no_entry: [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+
+:no_entry: [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
+:no_entry: [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+
+:no_entry: [415. Add Strings](https://leetcode.com/problems/add-strings/)
+
+:no_entry: [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+
+:no_entry: [443. String Compression](https://leetcode.com/problems/string-compression/)
+
+:no_entry: [470. Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
+
+:no_entry: [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) 
+
+:no_entry: [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+
+:no_entry: [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+:no_entry: [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
+:no_entry: [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
+
+:no_entry: [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+
+:no_entry: [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
+
+:no_entry: [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+
+:no_entry: [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+
+:no_entry: [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
+:no_entry: [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+
+:no_entry: [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+
+:no_entry: [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
+
+:no_entry: [1493. Longest Subarray of 1’s After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)  
+
+</details>
+
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=FFFF99&height=200&section=footer&text=Заглядывай%20снова!&fontSize=50&animation=fadeIn&fontAlignY=68&fontColor=333333)
