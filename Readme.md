@@ -5,13 +5,13 @@
 
 # Структура основных алгоритмов
 
-## 1. Two pointers ![0%](https://progress-bar.xyz/0)
+## 1. Two pointers ![](https://progress-bar.xyz/9)
 <details>
-<summary> 0/21 Problems </summary>
+<summary> 2/21 Problems </summary>
 
-:no_entry: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+:white_check_mark: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
-:no_entry: [15. 3Sum](https://leetcode.com/problems/3sum/)
+:white_check_mark: [15. 3Sum](https://leetcode.com/problems/3sum/)
 
 :no_entry: [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 
@@ -54,7 +54,7 @@
 
 
 
-## 2. Sliding window ![8%](https://progress-bar.xyz/8)
+## 2. Sliding window ![](https://progress-bar.xyz/8)
 <details>
 <summary> 1/12 Problems </summary>
 
