@@ -192,7 +192,7 @@
 :no_entry: [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 :no_entry: [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
-  
+
 :no_entry: [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 
 :no_entry: [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
@@ -211,7 +211,8 @@
 
 :no_entry: [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
-:no_entry: [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)  
+:no_entry: [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
+  
 :no_entry: [167. Two Sum II – Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
 :no_entry: [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
