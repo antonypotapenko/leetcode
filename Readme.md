@@ -156,4 +156,4 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=FFFF99&height=256&section=footer&text=Заглядывай%20снова!&fontSize=50&animation=fadeIn&fontAlignY=68&fontColor=444444)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FFFF99&height=200&section=footer&text=Заглядывай%20снова!&fontSize=50&animation=fadeIn&fontAlignY=68&fontColor=333333)
