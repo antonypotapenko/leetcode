@@ -86,7 +86,7 @@
 
 </details>
 
-## 3. Substring ![0%](https://progress-bar.xyz/0)
+## 3. Substring ![](https://progress-bar.xyz/0)
 
 <details>
 <summary> 0/30 Problems  </summary>
@@ -156,16 +156,16 @@
 
 #
 
-# Задачи к интервью ![0%](https://progress-bar.xyz/0)
+# Задачи к интервью ![](https://progress-bar.xyz/3)
 
 <details>
-<summary> 0/60 Problems  </summary>
+<summary> 2/60 Problems  </summary>
 
-:no_entry: [1. Two Sum](https://leetcode.com/problems/two-sum/)
+:white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
 :no_entry: [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
-:no_entry: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+:white_check_mark: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 :no_entry: [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
