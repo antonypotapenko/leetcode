@@ -54,9 +54,9 @@
 
 
 
-## 2. Sliding window ![](https://progress-bar.xyz/16)
+## 2. Sliding window ![](https://progress-bar.xyz/15)
 <details>
-<summary> 2/12 Problems </summary>
+<summary> 2/13 Problems </summary>
 
 :white_check_mark: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
