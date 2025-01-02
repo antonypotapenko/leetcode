@@ -86,14 +86,14 @@
 
 </details>
 
-## 3. Substring ![](https://progress-bar.xyz/0)
+## 3. Substring ![](https://progress-bar.xyz/6)
 
 <details>
-<summary> 0/30 Problems  </summary>
+<summary> 2/30 Problems  </summary>
 
-:no_entry: [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/?envType=problem-list-v2&envId=string&difficulty=MEDIUM)
+:white_check_mark: [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/?envType=problem-list-v2&envId=string&difficulty=MEDIUM)
 
-:no_entry: [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/?envType=problem-list-v2&envId=string&difficulty=MEDIUM)
+:white_check_mark: [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/?envType=problem-list-v2&envId=string&difficulty=MEDIUM)
 
 :no_entry: [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/?envType=problem-list-v2&envId=string&difficulty=MEDIUM)
 
