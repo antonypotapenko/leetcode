@@ -156,10 +156,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/8)
+# Задачи к интервью ![](https://progress-bar.xyz/10)
 
 <details>
-<summary> 5/61 Problems  </summary>
+<summary> 6/61 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -175,7 +175,7 @@
 
 :no_entry: [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
-:no_entry: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+:white_check_mark: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 :no_entry: [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
