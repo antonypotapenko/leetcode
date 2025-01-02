@@ -3,11 +3,12 @@ class Solution:
         ans = 0
         n = len(s)
 
-        # odd substrings
+        
         for idx in range(n):
+            # odd substrings
             left = idx
             right = idx
-
+            
             while left >= 0 and right < n and s[left] == s[right]:
                 ans += 1
 

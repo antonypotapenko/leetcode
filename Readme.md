@@ -156,10 +156,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/6)
+# Задачи к интервью ![](https://progress-bar.xyz/8)
 
 <details>
-<summary> 4/61 Problems  </summary>
+<summary> 5/61 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -169,7 +169,7 @@
 
 :no_entry: [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
-:no_entry: [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+:white_check_mark: [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 :no_entry: [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 
