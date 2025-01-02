@@ -54,9 +54,9 @@
 
 
 
-## 2. Sliding window ![](https://progress-bar.xyz/30)
+## 2. Sliding window ![](https://progress-bar.xyz/38)
 <details>
-<summary> 4/13 Problems </summary>
+<summary> 5/13 Problems </summary>
 
 :white_check_mark: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
@@ -66,7 +66,7 @@
 
 :white_check_mark: [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
-:no_entry: [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+:white_check_mark: [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 
 :no_entry: [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 
