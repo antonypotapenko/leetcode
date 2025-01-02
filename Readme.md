@@ -54,15 +54,15 @@
 
 
 
-## 2. Sliding window ![](https://progress-bar.xyz/15)
+## 2. Sliding window ![](https://progress-bar.xyz/23)
 <details>
-<summary> 2/13 Problems </summary>
+<summary> 3/13 Problems </summary>
 
 :white_check_mark: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 :white_check_mark: [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
-:no_entry: [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+:white_check_mark: [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
 :no_entry: [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
@@ -156,10 +156,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/3)
+# Задачи к интервью ![](https://progress-bar.xyz/4)
 
 <details>
-<summary> 2/61 Problems  </summary>
+<summary> 3/61 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -249,7 +249,7 @@
 
 :no_entry: [415. Add Strings](https://leetcode.com/problems/add-strings/)
 
-:no_entry: [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+:white_check_mark: [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
 :no_entry: [443. String Compression](https://leetcode.com/problems/string-compression/)
 
