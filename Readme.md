@@ -54,9 +54,9 @@
 
 
 
-## 2. Sliding window ![](https://progress-bar.xyz/23)
+## 2. Sliding window ![](https://progress-bar.xyz/30)
 <details>
-<summary> 3/13 Problems </summary>
+<summary> 4/13 Problems </summary>
 
 :white_check_mark: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
@@ -64,7 +64,7 @@
 
 :white_check_mark: [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
-:no_entry: [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+:white_check_mark: [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
 :no_entry: [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 
@@ -156,10 +156,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/4)
+# Задачи к интервью ![](https://progress-bar.xyz/6)
 
 <details>
-<summary> 3/61 Problems  </summary>
+<summary> 4/61 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -261,7 +261,7 @@
 
 :no_entry: [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
-:no_entry: [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+:white_check_mark: [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
 :no_entry: [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
 
