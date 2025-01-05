@@ -156,10 +156,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/10)
+# Задачи к интервью ![](https://progress-bar.xyz/13)
 
 <details>
-<summary> 6/62 Problems  </summary>
+<summary> 8/62 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -171,7 +171,7 @@
 
 :white_check_mark: [5. Longest Palindromic Substring](https://leetcode.com/problems/slongest-palindromic-substring/)
 
-:no_entry: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
+:white_check_mark: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 
 :no_entry: [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 
@@ -185,7 +185,7 @@
 
 :no_entry: [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-:no_entry: [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+:white_check_mark: [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 :no_entry: [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
