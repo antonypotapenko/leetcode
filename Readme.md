@@ -156,10 +156,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/13)
+# Задачи к интервью ![](https://progress-bar.xyz/14)
 
 <details>
-<summary> 8/62 Problems  </summary>
+<summary> 9/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -232,6 +232,8 @@
 :no_entry: [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 :no_entry: [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+
+:white_check_mark: [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 
 :no_entry: [268. Missing Number](https://leetcode.com/problems/missing-number/)
 
