@@ -156,10 +156,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/14)
+# Задачи к интервью ![](https://progress-bar.xyz/16)
 
 <details>
-<summary> 9/63 Problems  </summary>
+<summary> 10/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -267,7 +267,7 @@
 
 :white_check_mark: [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
-:no_entry: [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
+:white_check_mark: [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
 
 :no_entry: [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 
