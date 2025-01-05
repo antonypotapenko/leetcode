@@ -156,10 +156,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/16)
+# Задачи к интервью ![](https://progress-bar.xyz/17)
 
 <details>
-<summary> 10/63 Problems  </summary>
+<summary> 11/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -191,7 +191,7 @@
 
 :no_entry: [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
-:no_entry: [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+:white_check_mark: [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 :no_entry: [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
