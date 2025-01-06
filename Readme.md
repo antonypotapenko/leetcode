@@ -159,7 +159,7 @@
 # Задачи к интервью ![](https://progress-bar.xyz/19)
 
 <details>
-<summary> 12/63 Problems  </summary>
+<summary> 13/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -207,7 +207,7 @@
 
 :no_entry: [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
-:no_entry: [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+:white_check_mark: [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 :no_entry: [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
 
