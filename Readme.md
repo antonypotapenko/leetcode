@@ -156,10 +156,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/17)
+# Задачи к интервью ![](https://progress-bar.xyz/19)
 
 <details>
-<summary> 11/63 Problems  </summary>
+<summary> 12/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -193,7 +193,7 @@
 
 :white_check_mark: [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
-:no_entry: [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+:white_check_mark: [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 :no_entry: [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
 
