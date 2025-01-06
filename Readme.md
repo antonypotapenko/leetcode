@@ -156,10 +156,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/22)
+# Задачи к интервью ![](https://progress-bar.xyz/23)
 
 <details>
-<summary> 14/63 Problems  </summary>
+<summary> 15/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -215,7 +215,7 @@
 
 :no_entry: [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
-:no_entry: [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
+:no_entry: [159. Longest Substring with At Most Two Distinct Characters (premium)](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
   
 :no_entry: [167. Two Sum II – Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
@@ -223,7 +223,7 @@
 
 :no_entry: [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
-:no_entry: [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+:white_check_mark: [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 
 :no_entry: [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
