@@ -5,9 +5,9 @@
 
 # Структура основных алгоритмов
 
-## 1. Two pointers ![](https://progress-bar.xyz/9)
+## 1. Two pointers ![](https://progress-bar.xyz/14)
 <details>
-<summary> 2/21 Problems </summary>
+<summary> 3/21 Problems </summary>
 
 :white_check_mark: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
@@ -31,7 +31,7 @@
 
 :no_entry: [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
-:no_entry: [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+:white_check_mark: [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 :no_entry: [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
@@ -156,10 +156,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/19)
+# Задачи к интервью ![](https://progress-bar.xyz/22)
 
 <details>
-<summary> 13/63 Problems  </summary>
+<summary> 14/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -211,7 +211,7 @@
 
 :no_entry: [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
 
-:no_entry: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+:white_check_mark: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 
 :no_entry: [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
