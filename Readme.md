@@ -154,12 +154,37 @@
 </details>
 
 
-#
-
-# Задачи к интервью ![](https://progress-bar.xyz/23)
+## 4. Linked List ![](https://progress-bar.xyz/0)
 
 <details>
-<summary> 15/63 Problems  </summary>
+<summary> 0/9 Problems  </summary>
+
+:no_entry: [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/?envType=problem-list-v2&envId=linked-list)
+
+:no_entry: [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=problem-list-v2&envId=linked-list)
+
+:no_entry: [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=linked-list)
+
+:no_entry: [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=linked-list)
+
+:no_entry: [61. Rotate List](https://leetcode.com/problems/rotate-list/description/?envType=problem-list-v2&envId=linked-list)
+
+:no_entry: [86. Partition List](https://leetcode.com/problems/partition-list/description/?envType=problem-list-v2&envId=linked-list)
+
+:no_entry: [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/?envType=problem-list-v2&envId=linked-list)
+
+:no_entry: [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=problem-list-v2&envId=linked-list)
+
+:no_entry: [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
+
+</details>
+
+#
+
+# Задачи к интервью ![](https://progress-bar.xyz/24)
+
+<details>
+<summary> 16/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -249,7 +274,7 @@
 
 :no_entry: [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
-:no_entry: [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+:white_check_mark: [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
 :no_entry: [415. Add Strings](https://leetcode.com/problems/add-strings/)
 
