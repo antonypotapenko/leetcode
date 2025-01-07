@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/24)
+# Задачи к интервью ![](https://progress-bar.xyz/27)
 
 <details>
-<summary> 16/63 Problems  </summary>
+<summary> 17/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -294,7 +294,7 @@
 
 :white_check_mark: [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
 
-:no_entry: [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+:white_check_mark: [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 
 :no_entry: [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
 
