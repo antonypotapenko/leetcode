@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/28)
+# Задачи к интервью ![](https://progress-bar.xyz/30)
 
 <details>
-<summary> 18/63 Problems  </summary>
+<summary> 19/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -260,7 +260,7 @@
 
 :white_check_mark: [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 
-:no_entry: [268. Missing Number](https://leetcode.com/problems/missing-number/)
+:white_check_mark: [268. Missing Number](https://leetcode.com/problems/missing-number/)
 
 :no_entry: [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 
