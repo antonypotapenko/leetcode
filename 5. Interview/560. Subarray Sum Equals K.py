@@ -1,26 +1,27 @@
 class Solution:
     def subarraySum(self, nums: list[int], k: int) -> int:
         
-        ans = 0
-        left = 0
+        count = 0
+        prefix_sum = 0
+        prefix_dict = {0:1}
 
-        for right in range(len(nums)):
+        for num in nums:
+            prefix_sum += num
 
-            while ans < k:
-                ans += nums[right]
+            if prefix_sum - k in prefix_dict:
+                count += prefix_dict[prefix_sum - k]
             
-            pass
+            prefix_dict[prefix_sum] = prefix_dict.get(prefix_sum, 0) + 1
 
-
-
-
-
-
+        return count
 
 nums = [1,1,1]
 k = 2
 
 nums = [1,2,3]
+k = 3
+
+nums = [1,2,1,2,1]
 k = 3
 
 

@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/30)
+# Задачи к интервью ![](https://progress-bar.xyz/31)
 
 <details>
-<summary> 19/63 Problems  </summary>
+<summary> 20/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -288,7 +288,7 @@
 
 :no_entry: [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 
-:no_entry: [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+:white_check_mark: [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 :white_check_mark: [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
