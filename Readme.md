@@ -5,9 +5,9 @@
 
 # Структура основных алгоритмов
 
-## 1. Two pointers ![](https://progress-bar.xyz/14)
+## 1. Two pointers ![](https://progress-bar.xyz/19)
 <details>
-<summary> 3/21 Problems </summary>
+<summary> 4/21 Problems </summary>
 
 :white_check_mark: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
@@ -43,7 +43,7 @@
 
 :no_entry: [524. Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
 
-:no_entry: [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+:white_check_mark: [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 
 :no_entry: [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
