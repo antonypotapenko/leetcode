@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/27)
+# Задачи к интервью ![](https://progress-bar.xyz/28)
 
 <details>
-<summary> 17/63 Problems  </summary>
+<summary> 18/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -296,7 +296,7 @@
 
 :white_check_mark: [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 
-:no_entry: [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
+:white_check_mark: [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
 
 :no_entry: [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 
