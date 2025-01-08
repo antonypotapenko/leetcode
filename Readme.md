@@ -54,9 +54,9 @@
 
 
 
-## 2. Sliding window ![](https://progress-bar.xyz/46)
+## 2. Sliding window ![](https://progress-bar.xyz/53)
 <details>
-<summary> 6/13 Problems </summary>
+<summary> 7/13 Problems </summary>
 
 :white_check_mark: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
@@ -72,7 +72,7 @@
 
 :no_entry: [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 
-:no_entry: [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+:white_check_mark: [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
 :no_entry: [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
 
@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/38)
+# Задачи к интервью ![](https://progress-bar.xyz/39)
 
 <details>
-<summary> 24/63 Problems  </summary>
+<summary> 25/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -306,7 +306,7 @@
 
 :white_check_mark: [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
-:no_entry: [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+:white_check_mark: [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
 :white_check_mark: [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
 
