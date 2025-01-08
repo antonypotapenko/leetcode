@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/39)
+# Задачи к интервью ![](https://progress-bar.xyz/41)
 
 <details>
-<summary> 25/63 Problems  </summary>
+<summary> 26/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -310,7 +310,7 @@
 
 :white_check_mark: [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
 
-:no_entry: [1493. Longest Subarray of 1’s After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)  
+:white_check_mark: [1493. Longest Subarray of 1’s After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)  
 
 </details>
 
