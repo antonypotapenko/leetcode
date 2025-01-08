@@ -5,9 +5,9 @@
 
 # Структура основных алгоритмов
 
-## 1. Two pointers ![](https://progress-bar.xyz/19)
+## 1. Two pointers ![](https://progress-bar.xyz/23)
 <details>
-<summary> 4/21 Problems </summary>
+<summary> 5/21 Problems </summary>
 
 :white_check_mark: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
@@ -47,7 +47,7 @@
 
 :no_entry: [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
-:no_entry: [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+:white_check_mark: [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 :no_entry: [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 </details>
@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/33)
+# Задачи к интервью ![](https://progress-bar.xyz/35)
 
 <details>
-<summary> 21/63 Problems  </summary>
+<summary> 22/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -302,7 +302,7 @@
 
 :no_entry: [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 
-:no_entry: [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+:white_check_mark: [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 :no_entry: [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
