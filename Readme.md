@@ -5,9 +5,9 @@
 
 # Структура основных алгоритмов
 
-## 1. Two pointers ![](https://progress-bar.xyz/23)
+## 1. Two pointers ![](https://progress-bar.xyz/28)
 <details>
-<summary> 5/21 Problems </summary>
+<summary> 6/21 Problems </summary>
 
 :white_check_mark: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
@@ -49,7 +49,7 @@
 
 :white_check_mark: [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
-:no_entry: [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+:white_check_mark: [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 </details>
 
 
@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/36)
+# Задачи к интервью ![](https://progress-bar.xyz/38)
 
 <details>
-<summary> 23/63 Problems  </summary>
+<summary> 24/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -304,7 +304,7 @@
 
 :white_check_mark: [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
-:no_entry: [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+:white_check_mark: [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
 :no_entry: [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
