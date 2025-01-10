@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/41)
+# Задачи к интервью ![](https://progress-bar.xyz/42)
 
 <details>
-<summary> 26/63 Problems  </summary>
+<summary> 27/63 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -264,7 +264,7 @@
 
 :no_entry: [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 
-:no_entry: [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+:white_check_mark: [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 :no_entry: [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 

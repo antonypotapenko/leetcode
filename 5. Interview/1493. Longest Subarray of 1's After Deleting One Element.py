@@ -22,9 +22,9 @@ class Solution:
 
 nums = [1,1,0,1]
 
-# nums = [0,1,1,1,0,1,1,0,1]
+nums = [0,1,1,1,0,1,1,0,1]
 
-# nums = [1,1,1]
+nums = [1,1,1]
 
 sol = Solution()
 sol.longestSubarray(nums)
