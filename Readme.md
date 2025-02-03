@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/44)
+# Задачи к интервью ![](https://progress-bar.xyz/45)
 
 <details>
-<summary> 28/63 Problems  </summary>
+<summary> 29/64 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -310,7 +310,9 @@
 
 :white_check_mark: [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
 
-:white_check_mark: [1493. Longest Subarray of 1’s After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)  
+:white_check_mark: [1493. Longest Subarray of 1’s After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) 
+
+:white_check_mark: [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?utm_source=chatgpt.com)
 
 </details>
 
