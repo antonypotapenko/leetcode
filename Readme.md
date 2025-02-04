@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/45)
+# Задачи к интервью ![](https://progress-bar.xyz/46)
 
 <details>
-<summary> 29/64 Problems  </summary>
+<summary> 30/64 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -224,7 +224,7 @@
 
 :no_entry: [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 
-:no_entry: [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+:white_check_mark: [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 :no_entry: [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 
