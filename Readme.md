@@ -54,7 +54,7 @@
 
 
 
-## 2. Sliding window ![](https://progress-bar.xyz/53)
+## 2. Sliding window ![](https://progress-bar.xyz/54)
 <details>
 <summary> 7/13 Problems </summary>
 
