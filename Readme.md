@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/46)
+# Задачи к интервью ![](https://progress-bar.xyz/48)
 
 <details>
-<summary> 30/64 Problems  </summary>
+<summary> 31/64 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -280,7 +280,7 @@
 
 :white_check_mark: [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
-:no_entry: [443. String Compression](https://leetcode.com/problems/string-compression/)
+:white_check_mark: [443. String Compression](https://leetcode.com/problems/string-compression/)
 
 :no_entry: [470. Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
 
