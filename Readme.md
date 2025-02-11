@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/48)
+# Задачи к интервью ![](https://progress-bar.xyz/50)
 
 <details>
-<summary> 31/64 Problems  </summary>
+<summary> 32/64 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -282,7 +282,7 @@
 
 :white_check_mark: [443. String Compression](https://leetcode.com/problems/string-compression/)
 
-:no_entry: [470. Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
+:white_check_mark: [470. Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
 
 :no_entry: [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) 
 
