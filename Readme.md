@@ -184,7 +184,7 @@
 # Задачи к интервью ![](https://progress-bar.xyz/50)
 
 <details>
-<summary> 32/64 Problems  </summary>
+<summary> 32/65 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -301,6 +301,8 @@
 :no_entry: [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 
 :no_entry: [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+
+:no_entry: [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
 
 :white_check_mark: [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
