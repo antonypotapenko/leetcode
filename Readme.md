@@ -184,7 +184,7 @@
 # Задачи к интервью ![](https://progress-bar.xyz/50)
 
 <details>
-<summary> 32/65 Problems  </summary>
+<summary> 33/65 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -194,7 +194,7 @@
 
 :no_entry: [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
-:white_check_mark: [5. Longest Palindromic Substring](https://leetcode.com/problems/slongest-palindromic-substring/)
+:white_check_mark: [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 
 :white_check_mark: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 
@@ -250,7 +250,7 @@
 
 :white_check_mark: [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 
-:no_entry: [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+:white_check_mark: [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 :no_entry: [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
