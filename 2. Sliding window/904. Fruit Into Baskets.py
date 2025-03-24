@@ -1,35 +1,30 @@
 class Solution:
     def totalFruit(self, fruits: list[int]) -> int:
-        
+
         left = 0
-        right = 0
+        dct = {}
         counter = 0
-        bug = set()
-
-
-        while right < len(fruits):
-
-            if fruits[right] not in bug and not bug:
-                bug.add(fruits[right])
-                right += 1
-
-            elif fruits[right] not in bug:
-                counter = max(counter, right - left)
-
-                while fruits[left] in bug:
-                    bug.remove(fruits[left])
-                    left += 1
-                bug.add(fruits[right])
+        
+        for right, fruit in enumerate(fruits):
             
-            counter = max(counter, right - left)
-            right += 1
+            dct[fruit] = dct.get(fruit, 0) + 1
 
-        print(counter)
+            while len(dct) > 2:
+                dct[fruits[left]] -= 1
+                
+                if dct[fruits[left]] == 0:
+                    del dct[fruits[left]]
 
+                left += 1
+
+            counter = max(counter, right - left + 1)
+        
+        return counter
 
 
 fruits = [1,2,2]
-# fruits = [0,1,2,2]
+
+fruits = [0,1,2,2]
 
 sol = Solution()
 sol.totalFruit(fruits)

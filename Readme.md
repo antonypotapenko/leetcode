@@ -54,9 +54,9 @@
 
 
 
-## 2. Sliding window ![](https://progress-bar.xyz/54)
+## 2. Sliding window ![](https://progress-bar.xyz/61)
 <details>
-<summary> 7/13 Problems </summary>
+<summary> 8/13 Problems </summary>
 
 :white_check_mark: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
@@ -70,7 +70,7 @@
 
 :white_check_mark: [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 
-:no_entry: [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+:white_check_mark: [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 
 :white_check_mark: [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
@@ -181,10 +181,10 @@
 
 #
 
-# Задачи к интервью ![](https://progress-bar.xyz/50)
+# Задачи к интервью ![](https://progress-bar.xyz/51)
 
 <details>
-<summary> 33/65 Problems  </summary>
+<summary> 34/66 Problems  </summary>
 
 :white_check_mark: [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -297,6 +297,8 @@
 :white_check_mark: [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 
 :white_check_mark: [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
+
+:white_check_mark: [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
 
 :no_entry: [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 
